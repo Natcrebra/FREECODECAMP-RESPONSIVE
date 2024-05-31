@@ -1,0 +1,67 @@
+** start of undefined **
+
+<html>
+    <head>
+        <link rel="stylesheet" href="styles.css"/>
+    </head>
+    <body>
+        <main id="main">
+        <h1 id="title">Lise Meitner</h1>
+        <p>The woman who contributed to the discovery of nuclear fission</p>
+        <figure id="img-div">
+        <img id="image"
+        src="https://www.biografiasyvidas.com/biografia/m/fotos/meitner.jpg"
+        alt="Portrait of Lise Meitner" />
+        <figcaption id="img-caption">
+          Portrait of Lise Meitner
+        </figcaption>
+        </figure>
+
+        <section id="tribute-info">
+          <h3 id="headline">Here is a time line of Lise Meitner's life: </h3>
+          <ul>
+            <li><strong>1878</strong> - Born in Viena.</li>
+            <li><strong>1901</strong> - Viena's University </li>
+            <li><strong>1905</strong> - Tesis "Prüfung einer Formel Maxwells"</li>
+            <li><strong>1906</strong> - She became the second woman in the world who finally got a Doctor's title in physics.</li>
+            <li><strong>1907</strong> - She wrote and publied an article about the alpha particles. </li>
+            <li><strong>1907 </strong> - She went to Berlin.</li>
+            <li><strong>a big ETC
+              </strong><li>
+
+            <li><strong>1968</strong> - dies at the age of 89.</li>
+          </ul>
+
+          <blockquote 
+            cite="https://es.wikiquote.org/wiki/Lise_Meitner#:~:text=3%20Referencias-,Citas,produce%20en%20el%20verdadero%20científico».">
+            <p>"Science makes people selflessly strive for truth and objectivity, teaches people to accept reality, with wonder and awe, not to mention the awe and joy that the natural order of things produces in the true scientist".</p>
+
+      <cite>-- Lise Meitner. </cite>
+
+      </blockquote>
+      <h3>If you have time enough, you should read more about this wonderful woman being on her
+      <a 
+      id="tribute-link"
+      href= "https://es.wikipedia.org/wiki/Lise_Meitner"
+      target="_blank"
+      >Wikipedia Entry </a>.</h3>
+
+      </section>
+    </main>
+    </body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+img{
+
+display: block;
+max-width: 100%;
+text-align: center;
+
+}
+
+** end of undefined **
+
